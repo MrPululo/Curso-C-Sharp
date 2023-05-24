@@ -1,0 +1,8 @@
+Para crear un proyecto C# necesitamos .NET SDK
+
+Instalar .NET SDK (versión 7.0.302)
+https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/sdk-7.0.302-windows-x64-installer
+-----------------------------------------------
+CREAR PROYECTO
+en cmd:
+	dotnet new console -o nombreProyecto
